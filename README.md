@@ -14,3 +14,5 @@ The total stock volume of the stock.
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
 
 Make the appropriate adjustments to your VBA script to enable it to run on every worksheet at once.
+
+i had recieved support from a private instructor who had helped me with the completion of the scripts.
